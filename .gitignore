@@ -1,0 +1,25 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Virtual Environment =====
+.venv/
+venv/
+env/
+
+# ===== Environment Variables =====
+.env
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Data Artifacts =====
+data/processed/
+data/chroma/
+data/vectorstore/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
